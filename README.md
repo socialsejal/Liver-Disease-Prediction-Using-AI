@@ -1,1 +1,1 @@
-# Liver-Disease-Prediction-Using-AI
+# Liver-Disease-Pridiction
